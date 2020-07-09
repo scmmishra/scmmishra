@@ -7,6 +7,8 @@ Hi, I'm Shivam, hobbyist designer and developer. I work as an engineer at [Frapp
 🅴 [ERPNext](https://github.com/frappe/erpnext)<br>
 🚀 [Nimo](https://github.com/scmmishra/nimo)<br>
 
-## Get in touch
+## Some Links
 - Twitter: https://twitter.com/scmmishra
 - Personal site: https://shivam.dev/
+- Frappe: https://frappe.io/
+- Donate to IFF: https://https://internetfreedom.in/donate/
