@@ -11,4 +11,4 @@ Hi, I'm Shivam, hobbyist developer and designer. I work as an engineer at [Frapp
 - Twitter: https://twitter.com/scmmishra
 - Personal site: https://shivam.dev/
 - Frappe: https://frappe.io/
-- Donate to IFF: https://https://internetfreedom.in/donate/
+- Donate to IFF: https://internetfreedom.in/donate/
