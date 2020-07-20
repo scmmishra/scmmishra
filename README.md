@@ -10,7 +10,7 @@ Hi, I'm Shivam, hobbyist developer and designer. I work as an engineer at [Frapp
 ## Software & Gear I Use
 💻 MacBook Pro 15, 2019<br>
 🖱 Logitech MX Master 2S<br>
-⚡️ VS Code<br>
+⚡️ VS Code & Sublime Text<br>
 🧙🏼‍♂️ Iterm<br>
 🎨 Figma
 
