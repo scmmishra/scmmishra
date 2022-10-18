@@ -1,2 +1,2 @@
 # Shivam Mishra
-Hi, I'm Shivam, hobbyist developer and designer. I work as a frontend engineer at [DeepSource](https://deepsource.io). 
+Hi, I'm Shivam, hobbyist developer and designer. I am the product engineering lead at [DeepSource](https://deepsource.io). 
